@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cga-media
-- 👀 I’m interested in growing as a programmer and developer while working towards a career in audio-visual development.
+- 👀 I’m interested in growing as a web developer and working on generative art and creative coding projects.
 - 🌱 I’m currently learning C++ while building audio and graphics software projects.
-- 💞️ I’m looking to collaborate on any audio and visual projects.
+- 💞️ I’m looking to collaborate on any web projects with a special interest in audio-visual integration and generative art.
 - 📫 How to reach me ... shoot me an email @chrisgallenmedia@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm currently planning a move to Chicago, IL! HMU if you're from there!
