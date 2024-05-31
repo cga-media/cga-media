@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cga-media
 - 👀 I’m interested in growing as a web developer and working on generative art and creative coding projects.
-- 🌱 I’m currently learning C++ while building audio and graphics software projects.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on any web projects with a special interest in audio-visual integration and generative art.
 - 📫 How to reach me ... shoot me an email @chrisgallenmedia@gmail.com
 - 😄 Pronouns: He/Him
